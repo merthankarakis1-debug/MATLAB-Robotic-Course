@@ -13,7 +13,7 @@ theta2 = deg2rad(30);
 % Regler-Parameter
 Kp_pos = 2.0;       % Stärke der Positionsregelung
 dt = 0.03;          % Zeitschritt
-toleranz = 0.04;    % Ziel gilt erreicht bei 4 cm Abstand
+toleranz = 0.03;    % Ziel gilt erreicht bei 4 cm Abstand
 max_schritte = 500; % Sicherheitsgrenze
 
 % Startposition berechnen
